@@ -64,6 +64,12 @@ http://128.75.105.212:4022/udp/233.33.210.51:5050
 #EXTINF:-1,Европа Плюс ТВ HD
 http://128.75.105.212:4022/udp/233.33.210.54:5050
 #EXTINF:-1,Живи!
+#EXTINF:-1,CHARGE TV
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1,COMET TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+
 <!---
 Gagaiptv28/Gagaiptv28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
